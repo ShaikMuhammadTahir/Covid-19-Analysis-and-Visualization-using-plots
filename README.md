@@ -1,4 +1,5 @@
 Covid-19 Data Analysis and Visualization Using Multiple Plot Techniques
+
 This project focuses on the analysis and visualization of Covid-19 data using various statistical and graphical techniques. The Covid-19 pandemic has created vast amounts of data, and this project aims to leverage this data to better understand the trends, impacts, and patterns associated with the pandemic.
 
 By utilizing several visualization techniques such as Line Plots, Box Plots, Histograms, Violin Plots, Scatter Plots, Pair Plots, and Bar Plots, the project offers an in-depth exploration of the data. Each of these visualization methods allows for a comprehensive understanding of key metrics such as infection rates, recovery rates, and the overall progression of the pandemic across different regions and time periods.
